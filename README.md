@@ -44,9 +44,7 @@ RegistrationLoginSystem/
 │       ├── controller/AuthServlet.java    # Main servlet
 │       └── dao/DatabaseConnection.java    # DB connection class
 ├── WebContent/
-│   ├── assets/
-│   │   ├── css/style.css                  # All styles
-│   │   └── js/animations.js               # All animations
+│   ├── screenshots
 │   ├── register.html                      # Registration page
 │   ├── login.html                         # Login page
 │   ├── welcome.jsp                        # Welcome dashboard
